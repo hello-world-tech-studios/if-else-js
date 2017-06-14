@@ -22,5 +22,5 @@
   * Check to see if it works
 * Else if the number is 4 AND the color is purple, `alert()` the user: "Stay away from the color blue today."
   * Check to see if it works
-* Else "Sorry, you did not follow the rules!"
+* Else, `alert()` "Sorry, you did not follow the rules!"
   * Check to see if it works
