@@ -13,6 +13,8 @@ document.addEventListener("DOMContentLoaded", function() {
       alert("You will meet your soulmate today!")
     } else if (number == 4 && color == "purple") {
       alert("Stay away from the color blue today.")
+    }  else if (number == "Vincent" && color == "Nguyen") {
+      alert("This is a secret")
     } else {
       alert("Sorry, you did not follow the rules!")
     }
